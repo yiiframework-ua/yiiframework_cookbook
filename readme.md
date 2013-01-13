@@ -1,9 +1,9 @@
-Рецепты yiiframework.ru
+Рецепти yiiframework.ru
 =======================
 
-Данный репозиторий служит для работы над
-[русскоязычными рецептами по фреймворку Yii](http://yiiframework.ru/doc/cookbook/ru/index).
+Даний репозиторій є перекладом 
+[оригінальної російськомовної версії рецептів із фреймворка Yii](http://yiiframework.ru/doc/cookbook/ru/index).
 
-pull-request очень приветствуются.
+Pull-request краще робити до гілки ’master_uk’.
 
-Подробнее о том, как написать свой рецепт можно [почитать на yiiframework.ru](http://yiiframework.ru/doc/cookbook/ru/new.recipe.howto).
+Детальніше про те, як написати свій рецепт можна [почитати на yiiframework.ru](http://yiiframework.ru/doc/cookbook/ru/new.recipe.howto).
