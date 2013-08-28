@@ -1,50 +1,50 @@
-* Общие вопросы
-    - [Обзор](index)
-    - [Часто задаваемые вопросы](faq)
-    - [Как написать новый рецепт](new.recipe.howto)
-    - [Создание высоконагруженных приложений](highload)
-    - [Настройка IDE для работы с Yii](ide)
+* Загальні запитання
+    - [Огляд](index)
+    - [Часто задавані, поширені питання](faq)
+    - [Як написати новий рецепт](new.recipe.howto)
+    - [Створення високонавантажених додатків](highload)
+    - [Налаштування IDE для работи з Yii](ide)
 
-* Установка и настройка
-    - [Избавляемся от index.php при использовании nginx](install.nginx)
-    - [Используем несколько конфигураций в одном приложении](install.many.configs)
-    - [Настройка для работы на сервере](install.production)
-    - [Выполнение действий по расписанию](install.cron)
-    - [Использование приложения Yii в сторонних скриптах](install.integration)
-    - [HTTPS и Yii](install.https)
-    - [Yii и Denwer](install.denwer)
+* Встановлення та налаштування
+    - [Позбуваємося index.php при використанні nginx](install.nginx)
+    - [Використовуємо кілька конфігурацій в одному додатку](install.many.configs)
+    - [Налаштування для роботи на сервері](install.production)
+    - [Виконання дій за розкладом](install.cron)
+    - [Використання додатку Yii в сторонніх скриптах](install.integration)
+    - [HTTPS і Yii](install.https)
+    - [Yii і Denwer](install.denwer)
 
-* Модели
-    - [Обновление определённого поля модели](model.update.specified.field)
-    - [Сохранение связанных данных](model.save.related.data)
-    - [Мультиязычные модели](model.multilanguage)
-    - [DAO и модели](model.dao)
-    - [Использование Active Record с несколькими БД](model.multiple.databases)
-    - [Связь не по первичному ключу в MyISAM](model.myisam.nonpk.relation)
-    - [Итератор для провайдеров данных](model.data.provider.iterator)
+* Моделі
+    - [Оновлення певного поля моделі](model.update.specified.field)
+    - [Збереження повʼязаних даних](model.save.related.data)
+    - [Багатомовні моделі](model.multilanguage)
+    - [DAO і моделі](model.dao)
+    - [Використання Active Record з кількома БД](model.multiple.databases)
+    - [Звʼязок не по первинному ключу в MyISAM](model.myisam.nonpk.relation)
+    - [Ітератор для провайдерів даних](model.data.provider.iterator)
 
-* Формы
-    - [Краткий справочник по валидации](form.validation.reference)
-    - [Свои сообщения для ошибок валидации](form.validation.messages)
-    - [Использование собственных фильтров в правилах валидации](form.validation.fiters)
-    - [Как загрузить файл используя модель](form.file.upload)
-    - [Как загрузить файл используя модель (вариант с толстой моделью)](form.file.upload.fat.model)
-    - [Добавляем CAPTCHA к форме](form.captcha)
-    - [Как подключить FCKeditor](form.fckeditor)
-    - [Вывод CStarRating в GridView](form.cstarrating.in.gridview)
-    - [Расширяем CFormatter](form.extend.cformatter)
-    - [Использование виджета CMaskedTextField](form.cmaskedtextfield)
+* Форми
+    - [Короткий довідник по валідації](form.validation.reference)
+    - [Свої повідомлення для помилок валідації](form.validation.messages)
+    - [Використання власних фільтрів в правилах валідації](form.validation.fiters)
+    - [Як завантажити файл, використовуючи модель](form.file.upload)
+    - [Як завантажити файл, використовуючи модель (варіант з тонким контролером і товстою моделлю)](form.file.upload.fat.model)
+    - [Додаємо CAPTCHA до форми](form.captcha)
+    - [Як підключити FCKeditor](form.fckeditor)
+    - [Виведення CStarRating в GridView](form.cstarrating.in.gridview)
+    - [Розширюємо CFormatter](form.extend.cformatter)
+    - [Використання віджета CMaskedTextField](form.cmaskedtextfield)
 
-* Контроль доступа
-    - [RBAC и описание ролей в файле](access.rbac.file)
+* Контроль доступу
+    - [RBAC і опис ролей у файлі](access.rbac.file)
 
 * JavaScript
     - [AJAX в Yii](js.ajax)
-    - [Индикаторы AJAX-загрузки](js.ajax.load.indicators)
-    - [Создание пакетов JS и CSS](js.package)
+    - [Індикатори AJAX-завантаження](js.ajax.load.indicators)
+    - [Створення пакетів JS і CSS](js.package)
 
-* Особенности фреймворка
-    - [События](core.events)
-    - [Геттеры и сеттеры в Yii](core.getters.setters)
-    - [Ресурсы (asset)](core.assets)
-    - [Удобная разработка и отладка в Yii](core.development)
+* Особливості фреймворку
+    - [Події](core.events)
+    - [Гетери і сетери в Yii](core.getters.setters)
+    - [Ресурси (asset)](core.assets)
+    - [Зручна розробка та відлагодження в Yii](core.development)
